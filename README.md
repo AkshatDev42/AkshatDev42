@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🌐 Aspiring **Web Developer** with a passion for building interactive web applications.
 - 💡 Exploring **React, JavaScript, Zustand, and Redux**.
-- 🔧 Working on **Resume Builder, Quote Crafter, and RecipeRealm**.
+- 🔧 Working on **Resume Builder, MotoXChange**.
 - 🎯 Enthusiastic about **DSA (Java) and problem-solving**.
 - 📫 Reach me at **[akshatgohil4243@gmail.com](mailto:akshatgohil4243@gmail.com)**.
 
