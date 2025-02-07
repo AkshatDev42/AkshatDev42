@@ -23,21 +23,6 @@
 ### 🛠 Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-## 📌 Projects
-### 🔥 Featured Projects
-- 🚗 [Car Rental Website](https://github.com/yourusername/car-rental)
-- 📜 [Resume Builder](https://github.com/yourusername/resume-builder)
-- 🍽️ [RecipeRealm](https://github.com/yourusername/reciperealm)
-
-## 📊 GitHub Stats
-![Akshat's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ## 🎯 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-gohil-6345b6323/)
-
----
-⭐ **Feel free to explore my repositories and contribute!** ⭐
